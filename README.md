@@ -9,4 +9,5 @@ brew install nodejs #For os x users```
 ## Running the app
 ```bash
 nodejs app.js #For linux users
+
 node app.js #For os x users```
