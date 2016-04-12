@@ -1,0 +1,19 @@
+{
+  "name": "taller-javascript",
+  "version": "1.0.0",
+  "description": "## How to install nodejs? ```bash sudo apt-get install nodejs #For linux users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/se-unrc/taller-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/se-unrc/taller-javascript/issues"
+  },
+  "homepage": "https://github.com/se-unrc/taller-javascript"
+}
