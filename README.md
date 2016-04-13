@@ -46,3 +46,5 @@ describe('Array', function() {
 $ mocha
 ```
 
+## Useful links
+- http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
