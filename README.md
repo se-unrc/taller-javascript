@@ -24,6 +24,7 @@ $ mocha
 ```
 
 ## Useful links
+- [Taller Javascript - slides](https://docs.google.com/presentation/d/1TuEphTqgHyGUGrx_zapc2v1o2XGF3PNQt5UYwhzY5X8/edit?usp=sharing)
 - [nodejs](https://nodejs.org)
 - [npm](https://www.npmjs.com/)
 - [mocha](https://mochajs.org/)
