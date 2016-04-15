@@ -1,4 +1,4 @@
-#Nodejs workshop
+#Javascript workshop
 
 ## How to install nodejs?
 ```bash
