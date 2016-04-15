@@ -7,7 +7,6 @@ sudo apt-get install nodejs #For linux users
 brew install nodejs #For os x users
 ```
 
-
 ## Installing test framework
 
 ```bash
@@ -25,8 +24,9 @@ $ mocha
 ```
 
 ## Useful links
-- https://nodejs.org
-- https://www.npmjs.com/
-- https://mochajs.org/
-- http://chaijs.com/
-- http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
+- [nodejs](https://nodejs.org)
+- [npm](https://www.npmjs.com/)
+- [mocha](https://mochajs.org/)
+- [chai](http://chaijs.com/)
+- [OOP in js - What you need to know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+- [Introduction to TDD in javascript](http://tutorials.pluralsight.com/front-end-javascript/introduction-to-test-driven-development-in-javascript)
